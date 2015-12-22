@@ -1,4 +1,4 @@
-build_image: u12closure:b1
+build_image: harsh157/u12closure:b1
 
 # Language setting
 language: clojure
