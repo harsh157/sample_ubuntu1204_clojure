@@ -1,4 +1,4 @@
-build_image: drydock/u12closure:tip
+build_image: drydock/u12clo:tip
 
 # Language setting
 language: clojure
